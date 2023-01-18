@@ -9,6 +9,7 @@ license = "MIT"
 python = "^3.10"
 matplotlib = "^3.6.3"
 pandas = "^1.5.2"
+calmap = "^0.0.9"
 
 [tool.poetry.dev-dependencies]
 pre-commit = "^2.21.0"
